@@ -1,0 +1,5 @@
+principal_amount_in_rupees = float(input("Enter principal amount in rupees: "))
+rate_of_interest_in_percent = float(input("Enter rate of interest in percent: "))
+time_in_years = float(input("Enter time in years: "))
+print(f"Total amount is {total_amount_in_rupees} rupees")
+print(f"Compound interest is {compound_interest_in_rupees} rupees")
